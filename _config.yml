@@ -116,7 +116,7 @@ aplayer:
 
 backup:
   type: git
-  theme: material-x-1.2.1
-  message: Back up my www.itrhx.com blog
+  theme: fluid
+  message: Back up my yfxl.github.io blog
   repository:
     github: git@github.com:yfxl/yfxl.github.io.backup.git,master
