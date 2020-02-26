@@ -1,9 +1,9 @@
 ---
 title: 音乐推荐
 date: 2020-02-25 11:16:25
-tags: 音乐
+tags: [音乐,单曲]
 top: 100
-password: 
+categories: 音乐
 ---
 
 

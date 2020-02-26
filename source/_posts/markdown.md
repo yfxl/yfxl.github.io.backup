@@ -2,11 +2,12 @@
 title: markdown的使用方法
 tags: 教程
 date: 2020-02-22 21:22:58
+categories: 教程
 ---
 
-# Markdown使用教程
-小白现码的使用方法，以后再完善
 
+小白现码的使用方法，以后再完善。
+<!--more-->
 ## 基础语法
 Markdown 支持6种大小标题，对应的是html标签 h1 ~ h6 :
 ```

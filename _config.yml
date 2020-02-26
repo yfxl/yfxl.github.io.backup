@@ -120,3 +120,7 @@ backup:
   message: Back up my yfxl.github.io blog
   repository:
     github: git@github.com:yfxl/yfxl.github.io.backup.git,master
+    
+bilibili: 
+  width: 500
+  height: 544

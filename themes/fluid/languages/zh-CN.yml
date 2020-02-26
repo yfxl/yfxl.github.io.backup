@@ -1,8 +1,4 @@
 
-playlist: 
-  title: 歌单
-  subtitle: 歌单
-
 search:
   title: 搜索
   keyword: 关键词
@@ -32,10 +28,15 @@ archive:
 tag:
   title: 标签
   subtitle: 标签
+  playlist: 歌单
 
 category:
   title: 分类
   subtitle: 分类
+
+playlist: 
+  title: 歌单
+  subtitle: 歌单
 
 about:
   title: 关于
